@@ -2,8 +2,8 @@
 /**
  * Escreva a descrição da classe Size aqui.
  * 
- * @author (seu nome) 
- * @version (número de versão ou data)
+ * @Miguel Pintado (200221029) 
+ * @Lab0
  */
 public enum Size
 {
